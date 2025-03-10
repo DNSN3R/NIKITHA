@@ -62,7 +62,7 @@ Together, let's build impactful, **data-driven solutions**.
 ### 🚀 Exploring Currently
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-blue?style=flat-square)
 ![Copilot Studio](https://img.shields.io/badge/-Copilot%20Studio-blue?style=flat-square)
-![Verte AI](https://img.shields.io/badge/-Verte%20AI-blue?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/-Verte%20AI-blue?style=flat-square)
 
 ---
 
