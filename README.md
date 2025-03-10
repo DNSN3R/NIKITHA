@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm NIKITHA </h1>
 <h3 align="center">A passionate Data Analyst focused on AI, Big Data, and Cloud Computing.</h3>
 
-<img align="right" src="https://drive.google.com/file/d/1aIItPVGlEOzamrOMUHTdj534KDEMs-Zq/view?usp=drive_link" width="300"/>
+<img align="right" src="https://imgur.com/a/TwLIzaz" width="300"/>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Data Science & AI projects**.
