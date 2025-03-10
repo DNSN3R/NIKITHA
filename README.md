@@ -61,6 +61,30 @@ Together, let's build impactful, **data-driven solutions**.
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=flat-square&logo=microsoft-sql-server)
 ---
 
+# 💻 Skills and Tools
+@@ -56,7 +57,7 @@ I strive to transform raw data into meaningful insights, optimizing workflows an
+<p align="left">
+    <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Data_Studio_Logo.png" alt="Looker Studio" width="40" height="40"/>
+</p>
+
+### Frameworks & Libraries
+@@ -72,35 +73,35 @@ I strive to transform raw data into meaningful insights, optimizing workflows an
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MsSQL" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</p>
+
+### Other Tools & Technologies
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Windows_logo_%282012%E2%80%932021%29.svg/1200px-Microsoft_Windows_logo_%282012%E2%80%932021%29.svg.png" alt="Windows" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BeautifulSoup_Logo.svg" alt="BeautifulSoup" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Raspberry_Pi_Logo.svg/600px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/>
+</p>
 
 ### 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nikithaar/)
